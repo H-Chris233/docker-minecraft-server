@@ -1,4 +1,3 @@
-```markdown
 ---
 title: Minecraft Server on Hugging Face
 emoji: 🎮
@@ -134,6 +133,3 @@ pinned: false
 ## 📄 许可证
 
 MIT License - 详见 LICENSE 文件
-
----
-
